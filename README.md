@@ -73,7 +73,7 @@ The dataset (`WA_Fn-UseC_-Telco-Customer-Churn.csv`) is included in the repo.
 
 ```
 customer-churn/
-├── 23F_0775_Task1.ipynb              # Main notebook — all 5 parts
+├── code.ipynb              # Main notebook — all 5 parts
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Telco dataset (7,043 records)
 ├── requirements.txt
 └── README.md
@@ -103,6 +103,3 @@ Based on model findings:
 
 ---
 
-## Author
-
-Zainab Rasti — FAST-NUCES, Lahore
